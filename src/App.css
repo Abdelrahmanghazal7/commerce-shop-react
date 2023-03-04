@@ -275,7 +275,7 @@ transition: all 0.5s ease-in-out;
 }
 
 .div1sec4{
-  background-image: url(Images/banner-2.png);
+  background-image: url(/public/Images/banner-2.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: right;
@@ -661,7 +661,7 @@ border:1px solid black;
 }
 /********shop******************/
 .divteam{
-  background-image: url(Images/1a.jpg);
+  background-image: url(/public/Images/1a.jpg);
   height: 60vh;
   background-size: cover;
   background-repeat: no-repeat;

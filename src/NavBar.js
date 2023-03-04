@@ -21,7 +21,7 @@ function NavBar({totalItems}) {
                             </NavItem>
                         </div>
                         <div>
-                            <img className="imglogo" src="images/logo-1_8505ef07-bee3-4d82-aaf7-dc2fdb2b7793.png" alt="" />
+                            <img className="imglogo" src="Images/logo-1_8505ef07-bee3-4d82-aaf7-dc2fdb2b7793.png" alt="" />
                         </div>
                         <div>
                             <NavItem>

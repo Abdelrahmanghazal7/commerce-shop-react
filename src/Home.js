@@ -75,12 +75,12 @@ export default class Home extends Component {
 
           <div className="firstslide">
             <h3 className="slideh3">The White <br /> Collection</h3>
-            <img src="images/Home-default-1510-3.png" alt="" />
+            <img src="Images/Home-default-1510-3.png" alt="" />
           </div>
           <div className="secondslide">
             <h3 className="slideh3">The Black <br /> Collection</h3>
 
-            <img src="images/Home-default-1510-4.png" alt="" />
+            <img src="Images/Home-default-1510-4.png" alt="" />
 
           </div>
 
@@ -92,7 +92,7 @@ export default class Home extends Component {
             <Col lg="3" md="6" sm="12">
               <div >
                 <div className="divsec2">
-                  <img src="images/cate-df-3_360x.jpg" alt="" />
+                  <img src="Images/cate-df-3_360x.jpg" alt="" />
                 </div>
 
                 <div className="flexy"><h3>Clothing</h3><p> 5 items</p></div>
@@ -103,7 +103,7 @@ export default class Home extends Component {
               <div >
                 <div className="divsec2">
 
-                  <img src="images/cate-df-2_360x.jpg" alt="" />
+                  <img src="Images/cate-df-2_360x.jpg" alt="" />
                 </div>
 
                 <div className="flexy"><h3>Bag Brand</h3><p> 20 items</p></div>
@@ -113,7 +113,7 @@ export default class Home extends Component {
               <div >
                 <div className="divsec2">
 
-                  <img src="images/cate-df-1_360x.jpg" alt="" />
+                  <img src="Images/cate-df-1_360x.jpg" alt="" />
                 </div>
 
                 <div className="flexy"><h3>Accessories</h3><p> 6 items</p></div>
@@ -123,7 +123,7 @@ export default class Home extends Component {
               <div >
                 <div className="divsec2">
 
-                  <img src="images/cate-df-4_360x.jpg" alt="" />
+                  <img src="Images/cate-df-4_360x.jpg" alt="" />
                 </div>
 
                 <div className="flexy"><h3>Shoes</h3><p> 8 items</p></div>
@@ -152,7 +152,7 @@ export default class Home extends Component {
             <div>
               <div>
                 <div className="divsec3">
-                  <img src="images/Layer-142_900x.jpg" alt="" />
+                  <img src="Images/Layer-142_900x.jpg" alt="" />
 
                 </div>
 
@@ -169,7 +169,7 @@ export default class Home extends Component {
             </div>
             <div>
               <div className="divsec3">
-                <img src="images/Untitled-2_360x.jpg" alt="" />
+                <img src="Images/Untitled-2_360x.jpg" alt="" />
               </div>
               <div className="divflexy3">
                 <div>
@@ -183,7 +183,7 @@ export default class Home extends Component {
             </div>
             <div>
               <div className="divsec3">
-                <img src="images/Layer-141-1000x1280_540x.jpg" alt="" />
+                <img src="Images/Layer-141-1000x1280_540x.jpg" alt="" />
               </div>
               <div className="divflexy3">
                 <div>
@@ -197,7 +197,7 @@ export default class Home extends Component {
             </div>
             <div>
               <div className="divsec3">
-                <img src="images/6348644205_1_1_3-removebg-2_7318ae17-ed9d-4705-9bcd-bbcded4b59db_360x.png" alt="" />
+                <img src="Images/Untitled-1_1512x.png" alt="" />
               </div>
               <div className="divflexy3">
                 <div>
@@ -211,7 +211,7 @@ export default class Home extends Component {
             </div>
             <div>
               <div className="divsec3">
-                <img src="images/Untitled-1_1512x.png" alt="" />
+                <img src="Images/Untitled-1_1512x.png" alt="" />
               </div>
               <div className="divflexy3">
                 <div>
@@ -225,7 +225,7 @@ export default class Home extends Component {
             </div>
             <div>
               <div className="divsec3">
-                <img src="images/Layer-134_540x.jpg" alt="" />
+                <img src="Images/Layer-134_540x.jpg" alt="" />
               </div>
               <div className="divflexy3">
                 <div>
@@ -302,7 +302,7 @@ export default class Home extends Component {
 
                 </div>
                 <div className="categorydetail">
-                  <img src="images/6350552300_1_1_1-1_80x.jpg" alt="" />
+                  <img src="Images/6350552300_1_1_1-1_80x.jpg" alt="" />
 
                   <div>
                     <h3>
@@ -325,7 +325,7 @@ export default class Home extends Component {
 
                 </div>
                 <div className="categorydetail">
-                  <img src="images/0150220428_1_1_3_80x.jpg" alt="" />
+                  <img src="Images/0150220428_1_1_3_80x.jpg" alt="" />
 
                   <div>
                     <h3>
@@ -341,7 +341,7 @@ export default class Home extends Component {
                 </div>
               </div>
 
-              <img src="images/Layer-14-2_540x.jpg" alt="" />
+              <img src="Images/Layer-14-2_540x.jpg" alt="" />
 
               <div className="divflexy3">
                 <div>
@@ -364,7 +364,7 @@ export default class Home extends Component {
 
                 </div>
                 <div className="categorydetail">
-                  <img src="images/minimalist-img-5_a1455f0b-6b39-4c34-a1ce-ff3aa62e53af_80x.jpg" alt="" />
+                  <img src="Images/minimalist-img-5_a1455f0b-6b39-4c34-a1ce-ff3aa62e53af_80x.jpg" alt="" />
 
                   <div>
                     <h3>
@@ -387,7 +387,7 @@ export default class Home extends Component {
 
                 </div>
                 <div className="categorydetail">
-                  <img src="images/0248251428_1_1_3_80x.jpg" alt="" />
+                  <img src="Images/0248251428_1_1_3_80x.jpg" alt="" />
 
                   <div>
                     <h3>
@@ -403,7 +403,7 @@ export default class Home extends Component {
                 </div>
               </div>
 
-              <img src="images/Layer-141-1000x1280_540x (1).jpg" alt="" />
+              <img src="Images/Layer-141-1000x1280_540x.jpg" alt="" />
 
               <div className="divflexy3">
                 <div>
@@ -424,7 +424,7 @@ export default class Home extends Component {
 
                 </div>
                 <div className="categorydetail">
-                  <img src="images/6703777712_2_4_3_80x.jpg" alt="" />
+                  <img src="Images/6703777712_2_4_3_80x.jpg" alt="" />
 
                   <div>
                     <h3>
@@ -441,7 +441,7 @@ export default class Home extends Component {
                 </div>
               </div>
 
-              <img src="images/Untitled-2_c3deccf5-8c45-4eae-8ed0-63383cd413a0_540x.jpg" alt="" />
+              <img src="Images/Untitled-2_c3deccf5-8c45-4eae-8ed0-63383cd413a0_540x.jpg" alt="" />
               <div className="divflexy3">
                 <div>
                   <p>Quilted Gilet With Hood</p>
@@ -461,7 +461,7 @@ export default class Home extends Component {
             <Col lg="8" md="8" sm="12">
               <Row className="productsshow">
                 <Col lg="4" md="4" sm="12">
-                  <img src="images/126092902_363731078221416_3923172392216927851_n.jpg" alt="" />
+                  <img src="Images/126092902_363731078221416_3923172392216927851_n.jpg" alt="" />
                   <div className="productdivv">
                     <SiInstagram />
 
@@ -469,16 +469,7 @@ export default class Home extends Component {
                   </div>
                 </Col>
                 <Col lg="4" md="4" sm="12">
-                  <img src="images/125805091_1244092065966946_7480077131728639836_n.jpg" alt="" />
-                  <div className="productdivv">
-                    <SiInstagram />
-
-
-                  </div>
-
-                </Col>
-                <Col lg="4" md="4" sm="12">
-                  <img src="images/126106436_366020964688525_7792254897032838113_n.jpg" alt="" />
+                  <img src="Images/125805091_1244092065966946_7480077131728639836_n.jpg" alt="" />
                   <div className="productdivv">
                     <SiInstagram />
 
@@ -487,7 +478,7 @@ export default class Home extends Component {
 
                 </Col>
                 <Col lg="4" md="4" sm="12">
-                  <img src="images/126398977_221851472632792_6291091317212891166_n.jpg" alt="" />
+                  <img src="Images/126106436_366020964688525_7792254897032838113_n.jpg" alt="" />
                   <div className="productdivv">
                     <SiInstagram />
 
@@ -496,7 +487,7 @@ export default class Home extends Component {
 
                 </Col>
                 <Col lg="4" md="4" sm="12">
-                  <img src="images/126197996_385197312744633_6397005439344767247_n.jpg" alt="" />
+                  <img src="Images/126398977_221851472632792_6291091317212891166_n.jpg" alt="" />
                   <div className="productdivv">
                     <SiInstagram />
 
@@ -505,7 +496,16 @@ export default class Home extends Component {
 
                 </Col>
                 <Col lg="4" md="4" sm="12">
-                  <img src="images/125474066_691332491496782_8130376826513537460_n.jpg" alt="" />
+                  <img src="Images/126197996_385197312744633_6397005439344767247_n.jpg" alt="" />
+                  <div className="productdivv">
+                    <SiInstagram />
+
+
+                  </div>
+
+                </Col>
+                <Col lg="4" md="4" sm="12">
+                  <img src="Images/125474066_691332491496782_8130376826513537460_n.jpg" alt="" />
                   <div className="productdivv">
                     <SiInstagram />
 
