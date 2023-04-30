@@ -195,20 +195,7 @@ export default class Home extends Component {
 
               </div>
             </div>
-            <div>
-              <div className="divsec3">
-                <img src="Images/Untitled-1_1512x.png" alt="" />
-              </div>
-              <div className="divflexy3">
-                <div>
-                  <p>Quilted Gilet With Hood</p>
-                  <h3>$179.00</h3>
-
-                </div>
-                <abbr title="View Details" ><ImEye /></abbr>
-
-              </div>
-            </div>
+          
             <div>
               <div className="divsec3">
                 <img src="Images/Untitled-1_1512x.png" alt="" />
